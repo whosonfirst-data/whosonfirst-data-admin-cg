@@ -47,7 +47,7 @@
         "gn:id":2259810
     },
     "wof:country":"CG",
-    "wof:geomhash":"f296894fe151c1bcf6642bf4dd94b7c8",
+    "wof:geomhash":"125a01137f797cc956ed4f7584586f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,5 +73,5 @@
     17.94777999999999,
     1.31278
 ],
-  "geometry": {"coordinates":[17.94777999999999,1.31278],"type":"Point"}
+  "geometry": {"coordinates":[17.94778,1.31278],"type":"Point"}
 }
