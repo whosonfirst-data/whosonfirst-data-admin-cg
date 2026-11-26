@@ -1,0 +1,74 @@
+{
+  "id": 9895013482,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70278,0.41861,14.70278,0.41861",
+    "geom:latitude":0.41861,
+    "geom:longitude":14.70278,
+    "iso:country":"CG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2257364: name \"Mbomo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2257364"
+        },
+        {
+            "citation":"GeoNames populated place 2257364: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2257364"
+        },
+        {
+            "citation":"GeoNames populated place 2257364: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2257364"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092012673 (Mbomo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541,
+        85670023,
+        102191573,
+        1092012673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257364
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0fb151f03b7cd6364b2284b73d0b0995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012673,
+            "locality_id":9895013482,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":9895013482,
+    "wof:lastmodified":1795735248,
+    "wof:name":"Mbomo",
+    "wof:parent_id":1092012673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70278,
+    0.41861,
+    14.70278,
+    0.41861
+],
+  "geometry": {"coordinates":[14.70278,0.41861],"type":"Point"}
+}
